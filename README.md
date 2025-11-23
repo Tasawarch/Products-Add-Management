@@ -22,10 +22,3 @@ The backend is organized by resource under `api/` (e.g. `api/products`, `api/use
 
 - Backend: Node.js, Express, Mongoose (MongoDB), `jsonwebtoken`, `argon2`/`bcrypt`, `cookie-parser`, `cors`.
 - Frontend: React, Vite, `react-router-dom`, Tailwind CSS (PostCSS).
-
-
-## Suggested CV bullets
-
-- Built a full‑stack application with React (Vite) frontend and Node/Express backend, integrating MongoDB via Mongoose.
-- Implemented RESTful product and user endpoints and integrated password hashing and JWT authentication patterns.
-- Organized code with controllers, services, routes, and schemas to improve maintainability.
