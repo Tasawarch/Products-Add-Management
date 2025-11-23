@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
-# Products-Add-Management
-=======
-# ProductManager (example name)
+
+# Products Add managemnent
 
 One-line: Full‑stack React (Vite) frontend + Node/Express backend with MongoDB persistence and JWT‑compatible authentication.
 
